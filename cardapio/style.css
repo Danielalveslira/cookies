@@ -89,6 +89,6 @@ li .details {
     line-height: 21px;
 }
 
-#link {
+#link:hover {
     color: rgb(240, 99, 17);
 }
