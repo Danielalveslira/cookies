@@ -65,7 +65,7 @@ section h2 {
 }
 
 .cabecario {
-    color: #000000;
+    color: #292929;
 }
 
 /* LISTA */
@@ -84,7 +84,7 @@ li .details {
 }
 
 .details p {
-    color: rgba(0, 0, 0, 0.7);
+    color: rgba(236, 231, 231, 0.9);
     font-size: 14px;
     line-height: 21px;
 }
