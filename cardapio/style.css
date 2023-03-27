@@ -1,4 +1,3 @@
-
 /* GLOBAL */
 * {
     margin: 0;
@@ -15,7 +14,10 @@ ul {
     list-style: none;
 }
 
-h1, h2, h3, .price {
+h1,
+h2,
+h3,
+.price {
     font-family: 'Roboto Serif', serif;
     color: #E5E5CB;
 }
@@ -89,6 +91,10 @@ li .details {
     line-height: 21px;
 }
 
-#link:hover {
-    color: rgb(240, 99, 17);
+#link {
+    color: #D5CEA3;
+}
+
+.imgcookie:hover {
+    width: 20px;
 }
