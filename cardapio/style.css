@@ -6,8 +6,25 @@
 
 body {
     background-color: #3C2A21;
-    color: #E5E5CB;
+    color: #e5d1cb;
     font-family: 'Roboto', sans-serif;
+}
+
+.alert {
+    padding: 20px;
+    color: #CD1818;
+    background: #321E1E;
+
+    text-align: center;
+}
+
+.alert:hover {
+    padding: 15px;
+    color: black;
+    background: red;
+
+    text-align: center;
+    border: 20px;
 }
 
 ul {
@@ -101,4 +118,7 @@ li .details {
 
 .diminuir {
     font-size: 12px;
+}
+
+.bigword:hover {
 }
